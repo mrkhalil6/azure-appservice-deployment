@@ -139,6 +139,5 @@ covid_services/local_settings.py
 *.log.*
 
 env/
-venv/
 media/assets/
 
