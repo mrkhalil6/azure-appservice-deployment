@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZZR2roSN9829TWs1njq6mY6hKh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../instamunch-services" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../covid-services" />
   </component>
   <component name="RunManager">
     <configuration name="covid_qatar_services" type="Python.DjangoServer" factoryName="Django server">
@@ -61,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585044425649</updated>
       <workItem from="1585044426861" duration="1350000" />
-      <workItem from="1585046536481" duration="818000" />
+      <workItem from="1585046536481" duration="1067000" />
     </task>
     <servers />
   </component>
@@ -69,10 +73,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="723" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1585047026708">
+    <state x="723" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1585047601465">
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
-    <state x="723" y="257" width="530" height="598" key="FileChooserDialogImpl/67.34.1853.1046@67.34.1853.1046" timestamp="1585047026708" />
+    <state x="723" y="257" width="530" height="598" key="FileChooserDialogImpl/67.34.1853.1046@67.34.1853.1046" timestamp="1585047601465" />
     <state x="550" y="66" width="876" height="979" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585044529062">
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
