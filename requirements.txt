@@ -17,5 +17,5 @@ request==2019.4.13
 requests==2.22.0
 sqlparse==0.3.0
 stringcase==1.2.0
-urllib3==1.25.8
+urllib3==1.26.5
 mysqlclient==1.4.6
